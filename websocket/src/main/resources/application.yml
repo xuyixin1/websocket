@@ -1,0 +1,7 @@
+netty:
+  bossGroup: 1
+  workGroup: 10
+  ChannelOption:
+    SO_BACKLOG: 1024
+  port: 8081
+
